@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -12,8 +12,8 @@ header {
     background-color: blue;
     color: white;
     padding: 15px;
-    font-size: 18px;
-    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .sistemas {
@@ -22,7 +22,7 @@ header {
     justify-content: space-between;
     font-size: 24px;
     padding: 8px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     
     
 }
