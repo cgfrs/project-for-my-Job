@@ -81,4 +81,10 @@ header {
     font-size: 24px;
     font-family: 'Montserrat', sans-serif;
 }
-
+.links {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    flex-direction: row-reverse;
+    
+}
