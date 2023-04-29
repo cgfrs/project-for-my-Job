@@ -1,0 +1,76 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    color: white;
+    padding: 15px;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.sistemas {
+   
+    display: flex;
+    justify-content: space-between;
+    font-size: 24px;
+    padding: 8px;
+    font-family: 'Open Sans', sans-serif;
+    
+    
+}
+
+
+
+.um{
+    border: solid blue;
+    padding: 4px;
+    border-radius: 2px;
+    text-decoration: none;
+    color: black;
+}
+.um:hover{
+    box-shadow: 0 0 20px 10px rgba(56, 54, 226, 0.5);
+    
+    
+}
+.dois{
+    border: solid blue;
+    padding: 4px;
+    border-radius: 2px;
+    text-decoration: none;
+    color: black;
+}
+.dois:hover{
+    box-shadow: 0 0 20px 10px rgba(56, 54, 226, 0.5);
+    
+}
+.tres{
+    border: solid blue;
+    padding: 4px;
+    border-radius: 2px;
+    text-decoration: none;
+    color: black;
+}
+.tres:hover{
+    box-shadow: 0 0 20px 10px rgba(56, 54, 226, 0.5);;
+    
+}
+.imagem {
+    box-shadow: 0 0 20px 10px rgba(56, 54, 226, 0.5);;
+    display: flex;
+    justify-content: center;
+    gap: 330px;
+}
+.sistemas2 {
+    display: flex;
+    justify-content: center;
+}
+
