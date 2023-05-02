@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -16,16 +16,7 @@ header {
     font-family: 'Montserrat', sans-serif;
 }
 
-.sistemas {
-   
-    display: flex;
-    justify-content: space-between;
-    font-size: 24px;
-    padding: 8px;
-    font-family: 'Montserrat', sans-serif;
-    
-    
-}
+
 .um{
     border: solid blue;
     padding: 4px;
